@@ -5,7 +5,7 @@
 👉 Currently learning the **MERN Stack**  
 👉 Love working with **React, TailwindCSS, and modern UI frameworks**  
 👉 Ask me about **Front-End development** or **design-to-code workflows**  
-👉 How to reach me: [designerimran3d@gmail.com](mailto:designerimran3d@gmail.com)
+👉 How to reach me: [coderimran.me@gmail.com](mailto:coderimran.me@gmail.com)
 
 ---
 
