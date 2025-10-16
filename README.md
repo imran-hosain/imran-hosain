@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Imran Hosain  
 
 ## 🧑‍💻 About Me:
-👉 I'm a passionate **WordPress** and **Front-End Developer**  
+👉 I'm a passionate **WordPress** and **Frontend Developer**
 👉 Currently learning the **MERN Stack**  
 👉 Love working with **React, TailwindCSS, and modern UI frameworks**  
 👉 Ask me about **Front-End development** or **design-to-code workflows**  
