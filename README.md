@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Imran Hosain  
 
 ## 🧑‍💻 About Me:
-👉 I'm a passionate **WordPress** and **Frontend Developer**
-👉 Currently learning the **MERN Stack**  
-👉 Love working with **React, TailwindCSS, and modern UI frameworks**  
-👉 Ask me about **Front-End development** or **design-to-code workflows**  
-👉 How to reach me: [coderimran.me@gmail.com](mailto:coderimran.me@gmail.com)
+I’m a Front-End & WordPress Developer passionate about crafting clean, responsive, and user-friendly websites.
+I specialize in turning modern UI concepts into interactive experiences using HTML5, CSS3, SCSS, Bootstrap, Tailwind CSS, jQuery, and JavaScript.
+On the backend, I work with PHP and MySQL, and I build dynamic, fully-customized WordPress themes that balance design and performance.
+I love bridging the gap between design and development, ensuring every interface I build feels intuitive, fast, and visually polished.
 
 ---
 
@@ -32,10 +31,12 @@
 ---
 
 ## ✨ My Focus
-- Building responsive, modern web UIs  
-- Exploring design systems & animations  
-- Improving performance & accessibility  
-- Sharing design-to-code best practices
+	•	Creating responsive and accessible front-end interfaces for modern web projects
+	•	Developing custom WordPress themes with clean PHP and optimized MySQL integration
+	•	Building pixel-perfect UIs with frameworks like Bootstrap and Tailwind CSS
+	•	Streamlining workflows using SCSS and modular front-end architecture
+	•	Enhancing interactivity and performance with JavaScript and jQuery
+	•	Maintaining a balance between beautiful design and maintainable code
 
 ---
 
