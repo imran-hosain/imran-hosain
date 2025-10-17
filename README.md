@@ -31,12 +31,12 @@ I love bridging the gap between design and development, ensuring every interface
 ---
 
 ## ✨ My Focus
-Creating responsive and accessible front-end interfaces for modern web projects
-Developing custom WordPress themes with clean PHP and optimized MySQL integration
-Building pixel-perfect UIs with frameworks like Bootstrap and Tailwind CSS
-Streamlining workflows using SCSS and modular front-end architecture
-Enhancing interactivity and performance with JavaScript and jQuery
-Maintaining a balance between beautiful design and maintainable code
+- Creating responsive and accessible front-end interfaces for modern web projects
+- Developing custom WordPress themes with clean PHP and optimized MySQL integration
+- Building pixel-perfect UIs with frameworks like Bootstrap and Tailwind CSS
+- Streamlining workflows using SCSS and modular front-end architecture
+- Enhancing interactivity and performance with JavaScript and jQuery
+- Maintaining a balance between beautiful design and maintainable code
 
 ---
 
