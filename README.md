@@ -14,6 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/web-designer-frontend-developer)
 [![X (Twitter)](https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white)](https://x.com/ImranHosain97)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17320324/imran-hosain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E90FF?logo=firefox&logoColor=white&style=for-the-badge)](https://imranhosain.com/)
 
 ---
 
